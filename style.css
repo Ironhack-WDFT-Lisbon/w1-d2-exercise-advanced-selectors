@@ -1,0 +1,4 @@
+/* Next Sibling Selector */
+.first-input + input {
+  background-color: red;
+}
